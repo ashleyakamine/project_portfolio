@@ -1,5 +1,5 @@
 title: Ashley Akamine
-logo: /assets/headshot.jpg
-description: Welcome to my coding portfolio!
+# logo:
+# description: Welcome to my coding portfolio!
 show_downloads: false
 theme: jekyll-theme-minimal

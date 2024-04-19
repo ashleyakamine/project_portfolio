@@ -1,4 +1,5 @@
 # Ashley's Portfolio
+Welcome to my coding portfolio! Below are some of the projects I've been working on:
 
 ## Projects
 
@@ -55,3 +56,8 @@ The insights and recommendations provided through the data analysis have the pot
 
 [View Project Report](./assets/DataDynamoSlides.pdf)
 
+
+## About Me
+
+- [Visit my GitHub profile](https://github.com/yourusername)
+- [LinkedIn Profile](https://www.linkedin.com/in/yourname/)
