@@ -1,9 +1,11 @@
 # Ashley's Portfolio
-Welcome to my coding portfolio! Below are some of the projects I've been working on:
+Welcome to my coding portfolio! Below are some of the projects I've been working on.
 
 ## Projects
 
 ### PLU Food Pantry Inventory System
+[Link to Git Repo](https://github.com/ashleyakamine/pantry-stack)
+
 **Duration:** 09/2023 - Present
 
 ![Project Screenshot](./assets/pantry_home_page.png)
@@ -21,9 +23,9 @@ Developed a user-friendly inventory management web application for the Pacific L
 - Collaborated with PLU Pantry management to gather requirements and prioritize features for ongoing development.
 - Conducted testing and debugging to ensure the application's reliability and performance.
 
-[Link to Git Repo](https://github.com/ashleyakamine/pantry-stack)
 
 ### Analyzing Scoring Efficiency: A Multiple Regression Model for Women's Basketball
+[View Project Report](./assets/final_project_aa.pdf)
 **Duration:** 09/2023 - 12/2023
 
 **Description:**
@@ -37,10 +39,11 @@ Investigated the factors influencing scoring efficiency for NCAA Division I wome
 - Designed and implemented the regression model using R to analyze the relationship between independent variables and scoring efficiency.
 - Conducted hypothesis testing and diagnostic checks to ensure the validity and reliability of the regression model.
 
-[View Project Report](./assets/final_project_aa.pdf)
+
+
 
 ### Data Analysis for American Bar Association (ABA): Pro Bono Legal Advice Site
-
+[View Project Report](./assets/DataDynamoSlides.pdf)
 **Description:**
 Conducted comprehensive data analysis in the 2023 PLU DataFest competition to provide strategic advice to the American Bar Association (ABA) on optimizing the availability of legal experts for their pro bono legal advice site. The project aimed to enhance the efficiency and effectiveness of matching legal experts with individuals seeking pro bono legal assistance.
 
@@ -54,7 +57,6 @@ The insights and recommendations provided through the data analysis have the pot
 **Award:**
 - **Best Data Visualization Award**: Recognized by the PLU Datafest judges for the best insight and visualization of the dataset.
 
-[View Project Report](./assets/DataDynamoSlides.pdf)
 
 
 ## About Me
