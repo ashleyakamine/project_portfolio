@@ -52,7 +52,7 @@ Conducted comprehensive data analysis in the 2023 PLU DataFest competition to pr
 The insights and recommendations provided through the data analysis have the potential to significantly improve the accessibility and quality of pro bono legal assistance offered by the American Bar Association, ultimately benefiting individuals in need of legal support across various communities.
 
 **Award:**
-- **Outstanding Data Analysis Award**: Recognized by the PLU Datafest judges for the best visualization of the data.
+- **Best Data Visualization Award**: Recognized by the PLU Datafest judges for the best insight and visualization of the dataset.
 
 [View Project Report](./assets/DataDynamoSlides.pdf)
 
