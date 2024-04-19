@@ -1,4 +1,3 @@
-# Ashley's Portfolio
 Welcome to my coding portfolio! Below are some of the projects I've been working on.
 
 ## Projects
