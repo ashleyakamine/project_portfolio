@@ -26,6 +26,7 @@ Developed a user-friendly inventory management web application for the Pacific L
 
 ### Analyzing Scoring Efficiency: A Multiple Regression Model for Women's Basketball
 [View Project Report](./assets/final_project_aa.pdf)
+
 **Duration:** 09/2023 - 12/2023
 
 **Description:**
@@ -44,6 +45,7 @@ Investigated the factors influencing scoring efficiency for NCAA Division I wome
 
 ### Data Analysis for American Bar Association (ABA): Pro Bono Legal Advice Site
 [View Project Report](./assets/DataDynamoSlides.pdf)
+
 **Description:**
 Conducted comprehensive data analysis in the 2023 PLU DataFest competition to provide strategic advice to the American Bar Association (ABA) on optimizing the availability of legal experts for their pro bono legal advice site. The project aimed to enhance the efficiency and effectiveness of matching legal experts with individuals seeking pro bono legal assistance.
 
