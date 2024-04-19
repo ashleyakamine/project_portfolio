@@ -33,10 +33,8 @@ Investigated the factors influencing scoring efficiency for NCAA Division I wome
 - Conducted statistical interpretation of results to validate findings and draw meaningful conclusions regarding the impact of variables on scoring efficiency.
 
 **Responsibilities:**
-- Collected and cleaned data from various sources, including NCAA databases and team statistics, to build a comprehensive dataset for analysis.
-- Designed and implemented the regression model using statistical software (e.g., R or Python) to analyze the relationship between independent variables and scoring efficiency.
+- Designed and implemented the regression model using R to analyze the relationship between independent variables and scoring efficiency.
 - Conducted hypothesis testing and diagnostic checks to ensure the validity and reliability of the regression model.
-- Communicated findings through reports and presentations, providing actionable insights for coaches and team management to improve scoring efficiency strategies.
 
 [View Project Report](./assets/final_project_aa.pdf)
 

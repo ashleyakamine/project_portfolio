@@ -1,10 +1,5 @@
 title: Ashley Akamine
-logo: ./assets/headshot.jpg
+logo: /assets/headshot.jpg
 description: Welcome to my coding portfolio!
-links:
-  - name: GitHub
-    url: https://github.com/ashleyakamine
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/ashleyakamine/
 show_downloads: false
 theme: jekyll-theme-minimal
