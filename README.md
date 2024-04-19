@@ -1,14 +1,11 @@
 # Ashley's Portfolio
 
-Welcome to my coding portfolio! Below are some of the projects I've been working on:
-
 ## Projects
 
 ### PLU Food Pantry Inventory System
 **Duration:** 09/2023 - Present
 
 ![Project Screenshot](./assets/pantry_home_page.png)
-![Project Screenshot](./assets/pantry_inven_page.png)
 
 **Description:**
 Developed a user-friendly inventory management web application for the Pacific Lutheran University Food Pantry, aimed at enabling easy monitoring of item categorization and ensuring seamless updates for pantry operations. Actively refining and enhancing the application through ongoing development efforts.
@@ -41,7 +38,7 @@ Investigated the factors influencing scoring efficiency for NCAA Division I wome
 - Conducted hypothesis testing and diagnostic checks to ensure the validity and reliability of the regression model.
 - Communicated findings through reports and presentations, providing actionable insights for coaches and team management to improve scoring efficiency strategies.
 
-[Download Project Report](./assets/final_project_aa.pdf)
+[View Project Report](./assets/final_project_aa.pdf)
 
 ### Data Analysis for American Bar Association (ABA): Pro Bono Legal Advice Site
 
@@ -58,13 +55,5 @@ The insights and recommendations provided through the data analysis have the pot
 **Award:**
 - **Outstanding Data Analysis Award**: Recognized by the PLU Datafest judges for the best visualization of the data.
 
-[Download Project Report](./assets/DataDynamoSlides.pdf)
-
-
-## About Me
-
-Here you can write a brief introduction about yourself, your skills, and your interests.
-
-- [Visit my GitHub profile](https://github.com/ashleyakamine)
-- [LinkedIn Profile](https://www.linkedin.com/in/ashleyakamine/)
+[View Project Report](./assets/DataDynamoSlides.pdf)
 
