@@ -1,5 +1,7 @@
 title: Ashley Akamine
-logo: C:\Users\ashle\OneDrive\Documents\GitHub\project_portfolio\assets\akamine.headshot.jpg
-# description: 
-# show_downloads: true
+logo: ./assets/headshot.jpg
+description: Welcome to my coding portfolio!
+- [Visit my GitHub profile](https://github.com/ashleyakamine)
+- [LinkedIn Profile](https://www.linkedin.com/in/ashleyakamine/)
+show_downloads: false
 theme: jekyll-theme-minimal
